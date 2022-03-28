@@ -11,8 +11,8 @@
   inputs.src-treesitter_rust-master.ref   = "refs/heads/master";
   inputs.src-treesitter_rust-master.owner = "genotrance";
   inputs.src-treesitter_rust-master.repo  = "nimtreesitter";
-  inputs.src-treesitter_rust-master.dir   = "treesitter_rust";
-  inputs.src-treesitter_rust-master.type  = "github";
+    inputs.src-treesitter_rust-master.dir   = "treesitter_rust";
+inputs.src-treesitter_rust-master.type  = "github";
   
   inputs."nimgen".owner = "nim-nix-pkgs";
   inputs."nimgen".ref   = "master";
